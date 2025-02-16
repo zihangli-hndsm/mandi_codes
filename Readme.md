@@ -15,7 +15,7 @@ We are a group of 2. We are both pretty fully engaged in the project. There are 
 ### tsv_to_textgrid_single.py
 This script reads tsv annotation files and convert them to textgrid files.
 ### combine_lines.py
-Adjusts the form of transcriptions to fit the _
+Adjusts the form of transcriptions to fit the tsv to textgrid process.
 ### tier_separator.py
 Removes the second tier of textgrid files, which is used to process the results of the first model.
 ### add_space_in_textgrid.py
